@@ -14,6 +14,6 @@ Psikotes adalah Website yang dibuat untuk melakukan Tes Psikotes untuk Calon Kar
 # Backend
 Semua Proses Backend terdapat pada file kumpulan_function.php
 # Bahasa Pemrogramman
-Backend     : Php
-Front-end   : javascript, jquery, html, css, bootstrap
-Database    : mysql
+1. Backend     : Php
+2. Front-end   : javascript, jquery, html, css, bootstrap
+3. Database    : mysql
